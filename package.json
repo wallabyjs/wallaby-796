@@ -1,0 +1,22 @@
+{
+  "name": "wallaby-796",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wallabyjs/wallaby-796.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wallabyjs/wallaby-796/issues"
+  },
+  "homepage": "https://github.com/wallabyjs/wallaby-796#readme",
+  "devDependencies": {
+    "jasmine": "^2.5.2"
+  }
+}
